@@ -1,7 +1,7 @@
-Phishing-Attack
+# Phishing-Attack
 
+**Orel Rahum 316423615** 
 
-Name and Id : Orel Rahum 316423615
 Imports : os, sys , smtplib , MIMEText , MIMEMultipart , MIMEBase , encoders , validators , BeautifulSoup , requests
 Email provider : Gmail 
 the OS that i attack : linux
