@@ -2,10 +2,9 @@
 
 **Orel Rahum 316423615** 
 
-Imports : os, sys , smtplib , MIMEText , MIMEMultipart , MIMEBase , encoders , validators , BeautifulSoup , requests
-Email provider : Gmail 
-the OS that i attack : linux
-IP of the server : 37.142.71.175
+**imports:**  os, sys , smtplib , MIMEText , MIMEMultipart , MIMEBase , encoders , validators , BeautifulSoup , requests
+**Email provider:**  Gmail
+ **the OS that i attack:** linux
 some note:
 1. need run attachment with sudo
 2. I add in attchment new fuction that send to your mail all users+pass and his Public IP (to Run this fuction add more argv (argv2) with your real mail adrress(full adrress)
