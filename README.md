@@ -5,7 +5,7 @@
 * **imports:**  os, sys , smtplib , MIMEText , MIMEMultipart , MIMEBase , encoders , validators , BeautifulSoup , requests
 * **Email provider:**  Gmail
 * **the OS that i attack:** linux
-*
+
 **notes:**
 1. need run attachment with sudo
 2. if you used with 3 argv its "user" "provide mail" "job title"
