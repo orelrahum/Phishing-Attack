@@ -1,6 +1,6 @@
 # Phishing-Attack
 
-**Orel Rahum 316423615** 
+**Created by - Orel Rahum ** 
 
 * **imports:**  os, sys , smtplib , MIMEText , MIMEMultipart , MIMEBase , encoders , validators , BeautifulSoup , requests
 * **Email provider:**  Gmail
