@@ -1,4 +1,3 @@
-# Orel Rahum 316423615
 import sys
 import os	
 import  smtplib
