@@ -1,4 +1,3 @@
-#Orel Rahum 316423615
 import os	
 import requests	  
 from scapy.all import * 
